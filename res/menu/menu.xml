@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_item1"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always"
+        android:title="Item 1"
+        android:visible="false"/>
+    <item
+        android:id="@+id/menu_item2"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="always"
+        android:title="Item 2"
+        android:visible="false"/>
+
+</menu>
